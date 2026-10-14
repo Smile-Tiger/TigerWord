@@ -1,0 +1,175 @@
+﻿no,word,word_clean,kind,phonetic_uk,phonetic_us,definition
+  1,consultation,consultation,word,/ˌkɒnsl'teɪʃn/,/ˌkɑːnsl'teɪʃn/,"n. 磋商(会议),咨询,专家会诊"
+  2,soldiers,soldiers,word,/'soldʒɚ/,/'soldʒɚ/,n. 士兵；战士数量（soldier的复数）
+  3,crisis,crisis,word,/'kraɪsɪs/,/'kraɪsɪs/,n. 危机；决定性时刻；危险期 adj. 危机的；用于处理危 机的
+  4,sign,sign,word,/saɪn/,/saɪn/,n. 符号；记号；迹象；手势 vi. 签名；签署
+  5,militaries,militaries,word,,,
+  6,leased,leased,word,/li:st/,/li:st/,adj. 租用的 n. [计]专线；[计]一线路（指一电话线路每 天 24 小时地连通两地）
+  7,arrival,arrival,word,/ə'raɪvl/,/ə'raɪvl/,n. 到达；到达者；到来
+  8,upcoming,upcoming,word,/'ʌpkʌmɪŋ/,/'ʌpkʌmɪŋ/,adj. 即将来临的
+  9,dialogue,dialogue,word,/'daɪəlɒɡ/,/'daɪəlɔːɡ/,n. 对话；意见交换 vi. 对话
+ 10,dozens of,dozens of,phrase,,,几十
+ 11,dozens,dozens,word,,,n. 许多（dozen的复数）
+ 12,suspects,suspects,word,/'səspɛkt/,/'səspɛkt/,n. 嫌疑犯（suspect的复数） v. 怀疑（suspect的第三 人称单数）
+ 13,arrest,arrest,word,/ə'rest/,/ə'rest/,vt. 逮捕；拘留 n. 逮捕；拘留
+ 14,precursor,precursor,word,/pri'kɜːsə(r)/,/pri'kɜːrsər/,"n. 先驱;先行者;先兆,前兆 初期形式"
+ 15,multiple,multiple,word,/'mʌltɪpl/,/'mʌltɪpl/,adj. 多样的；许多的；多重的 n. 并联；倍数
+ 16,involving,involving,word,,,adj. 包括的
+ 17,crack,crack,word,/kræk/,/kræk/,vt. 使破裂；打开 vi. 爆裂；破裂 n. 裂缝，缝隙；噼啪声
+ 18,tangible,tangible,word,/'tændʒəbl/,/'tændʒəbl/,adj. 有形的；可触摸的；切实的 n. 有形资产
+ 19,counternarcotics,counternarcotics,word,,,
+ 20,bilateral,bilateral,word,/ˌbaɪ'lætərəl/,/ˌbaɪ'lætərəl/,adj. 双边的；左右对称的
+ 21,instruct,instruct,word,/ɪn'strʌkt/,/ɪn'strʌkt/,vt. 命令；教授；指导；通知
+ 22,extension,extension,word,/ɪk'stenʃn/,/ɪk'stenʃn/,"n. 延伸, 扩展 增加部分 电话分机"
+ 23,arrangement,arrangement,word,/ə'reɪndʒmənt/,/ə'reɪndʒmənt/,n. 安排; 解决办法 约定; 协议 布置好的东西 改编曲
+ 24,tariff,tariff,word,/'tærɪf/,/'tærɪf/,n. 关税表；收费表 vt. 征收关税；定税率
+ 25,reciprocal,reciprocal,word,/rɪ'sɪprəkl/,/rɪ'sɪprəkl/,adj. 互相给予的; 互惠的; 相互的
+ 26,council,council,word,/'kaʊnsl/,/'kaʊnsl/,n. 理事会；会议；委员会；顾问班子；地方议会
+ 27,namely,namely,word,/'neɪmli/,/'neɪmli/,adv. 即是；也就是；换句话说
+ 28,respective,respective,word,/rɪ'spektɪv/,/rɪ'spektɪv/,adj. 分别的，各自的
+ 29,mechanism,mechanism,word,/'mekənɪzəm/,/'mekənɪzəm/,"n. 机械装置；构造, 机制；办法, 技巧, 途径"
+ 30,round,round,word,/raʊnd/,/raʊnd/,n. 圆形物；一回合；圆；循环 adj. 圆的；完全的；大概 的；肥胖的
+ 31,latest,latest,word,/'leɪtɪst/,/'leɪtɪst/,adj. 最新的，最近的；最迟的 n. 最新的事物
+ 32,conclude,conclude,word,/kən'kluːd/,/kən'kluːd/,vt. 推断出；缔结；使结束 vi. 结束；总结；作决定；作 协议
+ 33,ahead of,ahead of,phrase,,,"在...前面, 先于@adv. 在...前面"
+ 34,acknowledged,acknowledged,word,/ək'nɒlɪdʒd/,/ək'nɒlɪdʒd/,adj. 公认的，得到普遍认可的 v. 承认，认可；告知收到 （动词acknowledge的过去式和过去分词）
+ 35,side by side,side by side,phrase,,,并排；并肩；一起
+ 36,Allies,Allies,word,/'ælaiz/,/'ælaiz/,n. （第一次世界大战时的）协约国；（第二次世界大战 时的）同盟国
+ 37,recall,recall,word,/rɪ'kɔːl/,/rɪ'kɔːl/,vt. 回想起，记起；召回；取消 n. 召回；回忆；撤消
+ 38,regional,regional,word,/'riːdʒənl/,/'riːdʒənl/,adj. 地区的；整个地区的；局部的
+ 39,in-depth,in-depth,word,/ˌɪn 'depθ/,/ˌɪn 'depθ/,adj. 深入的；彻底的
+ 40,passage,passage,word,/'pæsɪdʒ/,/'pæsɪdʒ/,n. 通路；走廊；一段（文章）
+ 41,charge for something,charge for something,phrase,,,
+ 42,shall,shall,word,/ʃəl/,/ʃəl/,modal v. 将；必须；会；应
+ 43,institution,institution,word,/ˌɪnstɪ'tjuːʃn/,/ˌɪnstɪ'tuːʃn/,n. 制定；制度；机构；名流
+ 44,weapons,weapons,word,/'wepən/,/'wepən/,n. 武装切换；斗争工具；武器（weapon的复数） v. 武 装（weapon的第三人称单数）
+ 45,commitment,commitment,word,/kə'mɪtmənt/,/kə'mɪtmənt/,n. 承诺；保证；信奉；献身；委任；花费金钱、时间、 人力等
+ 46,Iran,Iran,word,/ɪ'rɑːn/,/ɪ'rɑːn/,n. 伊朗（亚洲国家）
+ 47,intention,intention,word,/ɪn'tenʃn/,/ɪn'tenʃn/,"n. 意图, 意向; 目的; 打算"
+ 48,reciprocity,reciprocity,word,/ˌresɪ'prɒsəti/,/ˌresɪ'prɑːsəti/,n. 相互性；相互作用；互惠主义
+ 49,fairness,fairness,word,/'feənəs/,/'fernəs/,n. 公平；清晰；美好；顺利性
+ 50,constructive,constructive,word,/kən'strʌktɪv/,/kən'strʌktɪv/,adj. 建设性的；构造上的；作图的
+ 51,wrap up something,wrap up something,phrase,,,
+ 52,make public,make public,phrase,,,
+ 53,reach a consensus,reach a consensus,phrase,,,
+ 54,counterpart,counterpart,word,/'kaʊntəpɑːt/,/'kaʊntərpɑːrt/,"n. 与对方地位相当的人, 与另一方作用相当的物"
+ 55,president,president,word,/'prezɪdənt/,/'prezɪdənt/,n. (国家)总统；(公司)总裁；校长；总经理；社长
+ 56,inheritance,inheritance,word,/ɪn'herɪtəns/,/ɪn'herɪtəns/,"n. 继承物, 遗产"
+ 57,pass on to,pass on to,phrase,,,
+ 58,techniques,techniques,word,/tek'ni:k/,/tek'ni:k/,n. 技术；技巧
+ 59,major in sth,major in sth,phrase,,,
+ 60,allowance,allowance,word,/ə'laʊəns/,/ə'laʊəns/,n. 零用钱；津贴；限额，定量；允许；折扣；考虑
+ 61,set aside,set aside,phrase,/ˈsetəˌsaɪd/,/ˈsɛtəˌsaɪd/,留出；不顾；驳回，撤销
+ 62,elderly,elderly,word,/'eldəli/,/'eldərli/,adj. 过了中年的；稍老的；上了年纪的
+ 63,nursing,nursing,word,/'nɜːsɪŋ/,/'nɜːrsɪŋ/,n. 护理；养育；看护 v. 看护；养育（nurse的ing形式）
+ 64,grassroots,grassroots,word,/ˌɡrɑːs'ruːts/,/ˌɡræs'ruːts/,n. 草根；基础 adj. 基本的；农业地区的
+ 65,commend,commend,word,/kə'mend/,/kə'mend/,vt. 推荐；称赞；把…委托 vi. 表扬；称赞
+ 66,generation,generation,word,/ˌdʒenə'reɪʃn/,/ˌdʒenə'reɪʃn/,"n. 同时代的人, 一代人, 一代 产生, 发生"
+ 67,introduce,introduce,word,/ˌɪntrə'djuːs/,/ˌɪntrə'duːs/,vt. 介绍；引进；采用；提出；提倡；放入
+ 68,onward,onward,word,/'ɒnwəd/,/'ɑːnwərd/,adj. 向前的；前进的 adv. 向前；在前面
+ 69,reserve for,reserve for,phrase,,,
+ 70,faith,faith,word,/feɪθ/,/feɪθ/,n. 信心；信任；相信；宗教信仰
+ 71,beneath,beneath,word,/bɪ'niːθ/,/bɪ'niːθ/,prep. 在…之下 adv. 在下方
+ 72,sapling,sapling,word,/'sæplɪŋ/,/'sæplɪŋ/,n. 树苗；年轻人
+ 73,hillside,hillside,word,/'hɪlsaɪd/,/'hɪlsaɪd/,n. 山坡，山腹；山腰
+ 74,pine,pine,word,/paɪn/,/paɪn/,"n. 松树 松木 vi. 消瘦, 憔悴; 痛苦 渴望"
+ 75,rated,rated,word,/'retɪd/,/'retɪd/,adj. 额定的 v. 估价；认为（rate的过去分词）
+ 76,corps,corps,word,/kɔː(r)/,/kɔːr/,n. 军团；兵队；兵种；（德国大学的）学生联合会
+ 77,squadron,squadron,word,/'skwɒdrən/,/'skwɑːdrən/,n. 中队
+ 78,detachment,detachment,word,/dɪ'tætʃmənt/,/dɪ'tætʃmənt/,n. 冷漠；公正；分遣队；脱离
+ 79,station,station,word,/'steɪʃn/,/'steɪʃn/,n. 站；地位；身份；驻地 vt. 配置；驻扎；安置
+ 80,miracles,miracles,word,/'mirəkl/,/'mirəkl/,n. 神迹；奇迹（miracle的复数）
+ 81,markedly,markedly,word,/'mɑːkɪdli/,/'mɑːrkɪdli/,adv. 明显地；显著地；引人注目地
+ 82,predecessor,predecessor,word,/'priːdəsesə(r)/,/'predəsesər/,"n. 前任, 前辈 (被取代的)原有事物, 前身"
+ 83,persistence,persistence,word,/pə'sɪstəns/,/pər'sɪstəns/,n. 坚持不懈;执意;持续;留存 继续存在
+ 84,stay with,stay with,phrase,,,
+ 85,set out on,set out on,phrase,,,
+ 86,political,political,word,/pə'lɪtɪkl/,/pə'lɪtɪkl/,adj.政治的；政治上的；>政党的，党派的；对政治有兴 趣的，政治上活跃的
+ 87,instructor,instructor,word,/ɪn'strʌktə(r)/,/ɪn'strʌktər/,"n. 指导者,教师"
+ 88,training,training,word,/'treɪnɪŋ/,/'treɪnɪŋ/,n. 训练；培养；瞄准；整枝 v. 训练；教养（train的ing 形式）
+ 89,take a break,take a break,phrase,,,
+ 90,frustration,frustration,word,/frʌ'streɪʃn/,/frʌ'streɪʃn/,n. 挫折；失败；挫败；失意；沮丧
+ 91,tactical,tactical,word,/'tæktɪkl/,/'tæktɪkl/,adj. 战术的；策略的；善于策略的
+ 92,demanding,demanding,word,/dɪ'mɑːndɪŋ/,/dɪ'mændɪŋ/,"adj. 很费心的, 很费力的"
+ 93,had struggled to,had struggled to,phrase,,,
+ 94,fists,fists,word,,,n. 拳套；拳头（fist的复数形式） v. 紧握；用拳头打 （fist的第三人称单数）
+ 95,recite,recite,word,/rɪ'saɪt/,/rɪ'saɪt/,vt. 背诵；叙述；列举 vi. 背诵；叙述
+ 96,departure,departure,word,/dɪ'pɑːtʃə(r)/,/dɪ'pɑːrtʃər/,"n. 离开, 离去"
+ 97,march,march,word,/mɑːtʃ/,/mɑːrtʃ/,n. 行军，进军；三月（March） v. 齐步走；行进；游行 示威
+ 98,army,army,word,/'ɑːmi/,/'ɑːrmi/,n. 陆军，军队
+ 99,stood in formation,stood in formation,phrase,,,
+100,routine,routine,word,/ruː'tiːn/,/ruː'tiːn/,n. 例行公事；日常工作；程序 adj. 日常的；例行的
+101,illegally,illegally,word,/ɪ'liːɡəli/,/ɪ'liːɡəli/,adv. 不法地
+102,facility,facility,word,/fə'sɪləti/,/fə'sɪləti/,n. 设备；灵巧；容易；设施
+103,warehouse,warehouse,word,/'weəhaʊs/,/'werhaʊs/,"n. 仓库, 货栈"
+104,rail,rail,word,/reɪl/,/reɪl/,n. 横杆；扶手；围栏；铁轨 vi. 抱怨；责骂
+105,aviation,aviation,word,/ˌeɪvi'eɪʃn/,/ˌeɪvi'eɪʃn/,n. 航空；飞行术；飞机制造业
+106,waived,waived,word,/wev/,/wev/,adj. 被遗弃的；被抑制的；推迟的 v. 放弃；抑制；推迟 （waive的过去式和过去分词）
+107,delivery,delivery,word,/dɪ'lɪvəri/,/dɪ'lɪvəri/,n. 交付；递送；分娩
+108,range from,range from,phrase,,,
+109,hand them over to,hand them over to,phrase,,,
+110,certified,certified,word,/'sɜːtɪfaɪd/,"/'sɝtə,faɪd/",adj. 被鉴定的
+111,take their devices out of,take their devices out of,phrase,,,
+112,dispose of,dispose of,phrase,,,phrv. 丢掉，清除 phrv. 解决，处理
+113,takes effect.,takes effect,phrase,,,
+114,registration,registration,word,/ˌredʒɪ'streɪʃn/,/ˌredʒɪ'streɪʃn/,n. 注册；登记；挂号
+115,verification,verification,word,/ˌverɪfɪ'keɪʃn/,/ˌverɪfɪ'keɪʃn/,n. 确认；查证；作证
+116,verify,verify,word,/'verɪfaɪ/,/'verɪfaɪ/,vt. 核实；查证
+117,authorities,authorities,word,/ɔ:'θɔritis/,/ɔ:'θɔritis/,"n. pl.当局, 官方"
+118,assign,assign,word,/ə'saɪn/,/ə'saɪn/,vt. 分配；指派；赋值 vi. 将财产过户（尤指过户给债权 人）
+119,such,such,word,/sʌtʃ/,/sʌtʃ/,adj. 这样的，如此的
+120,accordance with relevant,accordance with relevant,phrase,,,
+121,in accordance with sth,in accordance with sth,phrase,,,
+122,manufacturing,manufacturing,word,/ˌmænju'fæktʃərɪŋ/,/ˌmænju'fæktʃərɪŋ/,"n. 制造业,工业 adj. 制造业的;制造的"
+123,relief,relief,word,/rɪ'liːf/,/rɪ'liːf/,n. 减轻，解除；救济；安慰
+124,public order,public order,phrase,,,
+125,counterterrorism,counterterrorism,word,/ˌkaʊntəˈterərɪzəm/,/ˌkaʊntərˈterərɪzəm/,n. 反恐怖主义；打击恐怖主义
+126,special-purpose,special-purpose,word,,,
+127,bar from,bar from,phrase,,,
+128,relevant,relevant,word,/'reləvənt/,/'reləvənt/,adj. 有关的；中肯的；有重大作用的
+129,otherwise,otherwise,word,/'ʌðəwaɪz/,/'ʌðərwaɪz/,adv. 否则；另外；在其他方面 adj. 另外的；其他方面 的；原本，本来 conj. 其他；如果不；然后
+130,unmanned,unmanned,word,/ˌʌn'mænd/,/ˌʌn'mænd/,adj. 无人的；无人操纵的；被阉割的 v. 使失去男子气质 （unman的过去式和过去分词形式）
+131,designated,designated,word,"/'dɛzɪg,net/","/'dɛzɪg,net/",adj. 指定的；特指的
+132,administrative,administrative,word,/əd'mɪnɪstrətɪv/,/əd'mɪnɪstreɪtɪv/,"adj. 行政的, 管理的;经营的 后方勤务的"
+133,in line with something,in line with something,phrase,,,
+134,took effect on,took effect on,phrase,,,
+135,committee,committee,word,/kə'mɪti/,/kə'mɪti/,n. 委员会
+136,congress,congress,word,/'kɒŋɡres/,/'kɑːŋɡrəs/,n. 国会；会议；代表大会；社交
+137,pass by,pass by,phrase,,,v. 经过； 走过
+138,regulation,regulation,word,/ˌreɡju'leɪʃn/,/ˌreɡju'leɪʃn/,n. 章程；规章制度；规则；法规；(常指通过规章制度进 行的)调控，管理，控制
+139,revised,revised,word,/ri'vaizd/,/ri'vaizd/,adj. 改进的 v. 校订；修改；复习（revise的过去分词形 式）
+140,across,across,word,/ə'krɒs/,/ə'krɔːs/,prep. 横穿 adv. 横过
+141,storage,storage,word,/'stɔːrɪdʒ/,/'stɔːrɪdʒ/,n. 存储；仓库；贮藏所
+142,possession,possession,word,/pə'zeʃn/,/pə'zeʃn/,"n. 占有, 持有, 拥有 个人财产, 私人财物 领地, 属地, 殖民 地"
+143,restriction,restriction,word,/rɪ'strɪkʃn/,/rɪ'strɪkʃn/,"n. 约束, 限制 管制, 限定;法律, 规章"
+144,tighten,tighten,word,/'taɪtn/,/'taɪtn/,vt. 变紧；使变紧 vi. 变紧；绷紧
+145,marriage,marriage,word,/'mærɪdʒ/,/'mærɪdʒ/,n. 结婚；婚姻生活；密切结合，合并
+146,facilities,facilities,word,,,"n. 工具, 设施, 设备"
+147,support,support,word,/sə'pɔːt/,/sə'pɔːrt/,vt. 支持，支撑，支援；赡养，供养；扶持，帮助 n. 支 持，维持；支持者，支撑物；支援，供养
+148,kindergarten,kindergarten,word,/'kɪndəɡɑːtn/,/'kɪndərɡɑːrtn/,n. 幼儿园
+149,nursery,nursery,word,/'nɜːsəri/,/'nɜːrsəri/,n. 托儿所；苗圃；温床
+150,integrate,integrate,word,/'ɪntɪɡreɪt/,/'ɪntɪɡreɪt/,vt. 使结合成为整体 vt. & vi. (使)融入
+151,subsidy,subsidy,word,/'sʌbsədi/,/'sʌbsədi/,n. 津贴；补助金；补贴
+152,so far,so far,phrase,,,"迄今为止,到某个程度"
+153,give birth to,give birth to,phrase,,,"产生, 生（孩子），产（仔），引起"
+154,burden,burden,word,/'bɜːdn/,/'bɜːrdn/,n. 负担；责任；船的载货量 vt. 烦扰；使负担；装货于
+155,ease,ease,word,/iːz/,/iːz/,vt. 减轻，缓和；使安心 n. 安逸，悠闲；轻松，舒适
+156,roll something out,roll something out,phrase,,,
+157,stress,stress,word,/stres/,/stres/,n. 压力；紧张；重要性；强调；重读 vt. 强调；加压力 于；使紧张；用重音读
+158,ample,ample,word,/'æmpl/,/'æmpl/,adj. 丰富的；足够的；宽敞的
+159,trend,trend,word,/trend/,/trend/,n. 趋势，倾向；走向 vi. 趋向，伸向
+160,downward,downward,word,/'daʊnwəd/,/'daʊnwərd/,adj. 向下的，下降的 adv. 向下
+161,meanwhile,meanwhile,word,/'miːnwaɪl/,/'miːnwaɪl/,adv.同时； 其时，其间
+162,access to,access to,phrase,,,接近，有权使用
+163,each year,each year,phrase,,,
+164,enroll,enroll,word,/ɪnˈrəʊl/,/ɪnˈrəʊl/,v. 【美】（使）加入；注册；登记；招收（成员）；招 （生）登记入学；注册（课程）（【英】enrol）
+165,State Council Information Office.,State Council Information Office,phrase,,,
+166,news conference,news conference,phrase,,,记者招待会
+167,for years to come,for years to come,phrase,,,
+168,consecutive,consecutive,word,/kən'sekjətɪv/,/kən'sekjətɪv/,adj. 连续的；连贯的
+169,fertility-friendly,fertility-friendly,word,,,
+170,fertility,fertility,word,/fə'tɪləti/,/fər'tɪləti/,n. (土地的)肥沃；肥力；丰产 繁殖力 (思想等的)丰富
+171,sustained,sustained,word,/sə'steɪnd/,/sə'steɪnd/,adj. 持久的;持续的
+172,workforce,workforce,word,/'wɜːkfɔːs/,/'wɜːrkfɔːrs/,n. 劳动力；工人总数；职工总数
+173,abundant,abundant,word,/ə'bʌndənt/,/ə'bʌndənt/,adj. 充裕的；丰富的；盛产
+174,relatively,relatively,word,/'relətɪvli/,/'relətɪvli/,"adv. 相对地,比较而言;相当 相对来说；相比较而言"

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <!-- 定稿 logo：蓝底白虎脸。和 Figma 的 Logo 展示板、首页图标完全一致。 -->
+  <rect width="180" height="180" rx="44" fill="#007AFF" />
+  <circle cx="52" cy="52" r="22" fill="#ffffff" />
+  <circle cx="128" cy="52" r="22" fill="#ffffff" />
+  <circle cx="52" cy="52" r="10" fill="#007AFF" />
+  <circle cx="128" cy="52" r="10" fill="#007AFF" />
+  <circle cx="90" cy="104" r="60" fill="#ffffff" />
+  <g fill="#007AFF">
+    <circle cx="68" cy="96" r="7" />
+    <circle cx="112" cy="96" r="7" />
+    <rect x="76" y="60" width="6" height="16" rx="3" />
+    <rect x="87" y="60" width="6" height="16" rx="3" />
+    <rect x="98" y="60" width="6" height="16" rx="3" />
+    <rect x="34" y="108" width="20" height="6" rx="3" />
+    <rect x="30" y="122" width="20" height="6" rx="3" />
+    <rect x="126" y="108" width="20" height="6" rx="3" />
+    <rect x="130" y="122" width="20" height="6" rx="3" />
+    <ellipse cx="90" cy="120" rx="11" ry="8" />
+  </g>
+</svg>
